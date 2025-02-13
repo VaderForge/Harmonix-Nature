@@ -11,7 +11,7 @@ st.title("AI Nature Sound Generator")
 st.write("Generate custom nature sounds based on your choice!")
 
 # API Key and Base URL for Freesound
-API_KEY = "XH61EPd5zkYSafTtNm0u5aDNkX574WylEyAybRvD"
+API_KEY = "Freesound-API"
 BASE_URL = "https://freesound.org/apiv2/search/text/"
 
 # Utility functions for processing audio
